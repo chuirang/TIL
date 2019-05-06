@@ -1,7 +1,3 @@
-# Today I learned
+# Today I Learned Page
 
-## 20190209
-* go lang
-
-## 20190210
-* windbg 사용해보기
+This is the repository where i write about what i learned everyday.
